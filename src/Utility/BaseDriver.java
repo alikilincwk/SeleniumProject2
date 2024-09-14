@@ -20,7 +20,7 @@ public class BaseDriver {
 
     }
 
-    public static void tearDown() {
+    public static void waitAndQuit() {
         MyFunc.wait(3);
         driver.quit();
     }
