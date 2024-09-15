@@ -1,4 +1,8 @@
 package Tests;
 
-public class TC_0601 {
+import Utility.BaseDriver;
+
+public class TC_0601 extends BaseDriver {
+
+
 }
